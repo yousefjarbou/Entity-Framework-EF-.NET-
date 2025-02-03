@@ -1,5 +1,5 @@
 # Entity-Framework (EF .NET)
-## Entity Framework Demo
+## Entity Framework Demo August-2024
 
 This project demonstrates the core concepts of **Entity Framework Core**, including:
 
